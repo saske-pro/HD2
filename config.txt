@@ -1,6 +1,6 @@
 token=NTkyMDAyNzc0NTc3NzA5MDU2.XRspGw.wWAsmCEhCZmz7PaTn2T1IzXdWng
 owner=5468836034185265162 
-prefix=4
+prefix=2
 game=𝗗émons♆
 stayinchannel=true
 songinstatus=true
